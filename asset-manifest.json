@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/qrscanner/static/js/main.bf3682a6.js",
+    "main.js": "/qrscanner/static/js/main.d814294a.js",
     "static/js/787.315c5d74.chunk.js": "/qrscanner/static/js/787.315c5d74.chunk.js",
     "index.html": "/qrscanner/index.html",
-    "main.bf3682a6.js.map": "/qrscanner/static/js/main.bf3682a6.js.map",
+    "main.d814294a.js.map": "/qrscanner/static/js/main.d814294a.js.map",
     "787.315c5d74.chunk.js.map": "/qrscanner/static/js/787.315c5d74.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bf3682a6.js"
+    "static/js/main.d814294a.js"
   ]
 }
